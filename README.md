@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Hi, I'm Lorran Fernandes, I am a dev passionate about technology!
+
+This is the space where I spend most of my time where, imagination and creativity become code.
+
 <!--
 **Lorran-Fernandes/Lorran-Fernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
